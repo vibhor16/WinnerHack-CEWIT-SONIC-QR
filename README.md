@@ -10,7 +10,7 @@ A new factor for Passwordless authentication
 
 Working demo can be found at -
 
-http://sonic-aqr.herokuapp.com/   - 1st login screen
-http://sonic-aqr.herokuapp.com/mobilepage.html - mobile phone interface
+ - Login Screen - http://sonic-aqr.herokuapp.com/   
+ - Mobile Phone Interface - http://sonic-aqr.herokuapp.com/mobilepage.html - 
 
 Credits to the QuietJS implementation for Audio QR which can be found at https://github.com/ganny26/awesome-audioqr.
